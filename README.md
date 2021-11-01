@@ -1,2 +1,2 @@
 # marioclub
-It's Responsive landin page designed with HTML and CSS.
+It's Responsive landing page designed with HTML and CSS.
